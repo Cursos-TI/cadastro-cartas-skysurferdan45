@@ -5,11 +5,17 @@
 // Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
 
 int main() {
-  // Área para definição das variáveis para armazenar as propriedades das cidades
 
+ 
+  // Área para definição das variáveis para armazenar as propriedades das cidades
+int n;
+
+
+// Área para exibição dos dados da cidade
+printf("Olá Mundo, no codespace\n");
+printf("exemplo de edição de código!\n");
+return 0;
   // Área para entrada de dados
 
-  // Área para exibição dos dados da cidade
 
-return 0;
 } 
