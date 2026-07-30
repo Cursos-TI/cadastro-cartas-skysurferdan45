@@ -24,7 +24,8 @@ int main() {
     float pib2 = 127.60;
     int pontos2 = 25;
 
-    // Area para entrada de dados (guardando explicacoes de formato)
+    // Area para entrada de dados 
+
     /*
     %d: inteiro decimal.
     %f: numero com ponto flutuante.
@@ -33,7 +34,8 @@ int main() {
     */
 
     // Saida de dados
-    printf("CARTAS CADASTRADAS NO JOGO SUPER TRUNFO - DESAFIO NOVATO:\n\n");
+    printf("CARTAS CADASTRADAS NO JOGO SUPER TRUNFO - DESAFIO NOVATO:\n");
+    printf("\n");
 
     printf("Carta 1:\n");
     printf("Estado: %c\n", estado1);
