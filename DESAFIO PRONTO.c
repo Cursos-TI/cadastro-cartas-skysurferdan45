@@ -4,7 +4,6 @@
 // Tema 1 - Cadastro das cartas
 // Obejetivo = No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
 
-
 int main() {
     // Carta 1: Sao Paulo
     char estado1 = 'A';
